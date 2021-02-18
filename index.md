@@ -1,15 +1,17 @@
-## Anti-Lang
+## Pink's Good ol Plugins
 
-If you want to have a friendly, monetized minecraft server then this plugin is necessary!
+If you want to have a good server, then I recommend you use my plugins!
 
-### What it does
+### What they might seem like 
 
-Anti-Lang prevents players from saying bad language on your servers!
+They might seem like basic plugins, but they might come in handy in any situation!
 
-### Commands
-/al add /al delete /al info /al list
+### About me
+I am a new Java Plugin coder, and I might make mistakes, but mistakes are ok, as you learn from mistakes!
 
 
 ### Support or Contact
 
-Having problems with Anti-Lang? Send a dm to 【Ｄｉ】#7742 on discord for help!
+Having problems with Any of my plugins? Don't hesitate to send a dm to 【Ｄｉ】#7742 on discord for support!
+
+
